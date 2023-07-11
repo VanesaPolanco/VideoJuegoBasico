@@ -4,7 +4,7 @@
 <P>Integrantes: Angie Vanesa Polanco Sierra - Juan Sebastián Segura Pinzón - Jose Santiago Giraldo Sanchez</p>
 <h2>PROYECTO: Desarrollo de un video juego basico</h2>
 <h2>TITULO: POLLITOS EN FUGA</h2>
-<img src="./public/images/splash.png" alt="splash">
+<img src="./public/images/splash.PNG" alt="splash">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/splash.png "Imagen del splash"
 <h2>GENERO DEL JUEVO: Plataformero </h2>
