@@ -38,7 +38,7 @@ spock pudo observar a la familia de little en la ventana y fue tras ellos la mam
 la misión de little es volver al granero con su familia pero spock no se lo pondrá fácil ni nadie que se encuentre en su camino</p> 
 <h2>2. Historia del personaje:</h2> 
 <P>LITLE:</p> 
-<img src="./personaje/Pollito_60x60.gif" alt="Pollit">
+<img src="./personaje/Pollito_60x60.gif" alt="Pollito_60x60">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/Pollito_60x60.gif "Imagen del pollito"
 <P>Este es nuestro personaje principal
