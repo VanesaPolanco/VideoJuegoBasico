@@ -2,6 +2,7 @@
 <p>Curso: Diplomado nivel básico en el desarrollo de videojuegos - Grupo 1</p>
 <P>Profesor: Wilmar Arcila Castaño</p>
 <P>Integrantes: Angie Vanesa Polanco Sierra - Juan Sebastián Segura Pinzón - Jose Santiago Giraldo Sanchez</p>
+<a>https://jamboard.google.com/d/11EUbYmA0YyIkTIhCSfjIVOsD_PP0Vn0B9ghW_O_aGlg/viewer</a>
 <h2>PROYECTO:</h2>
 <P>Desarrollo de un video juego basico</p>
 
@@ -160,11 +161,11 @@ si el personaje gana tendrá un final feliz</p>
 
 
 <h2>2. Personajes:</h2>  
-  <h2> 2.1 Personajes Jugadores:
+  <h2> 2.1 Personajes Jugadores:</h2>
 <P> el personaje principal es el pollito LITLE</p>
       
-<P>- Enumerar y hacer una breve descripción de los personajes jugadores del juego  
-Es un pollito de 15 cm de color amarillo un poco grueso y muy habil para saltar</p>
+<h2>- Enumerar y hacer una breve descripción de los personajes jugadores del juego  
+Es un pollito de 15 cm de color amarillo un poco grueso y muy habil para saltar</h2>
 
    <h2>2.2 Personajes NO Jugadores:</h2>
 <P>el gato SPOCK</p>
