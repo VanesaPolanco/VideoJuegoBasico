@@ -131,6 +131,57 @@ los obstáculos caen del cielo</p>
 <P>si el personaje pierde las 3 vidas tendrá un final triste
 si el personaje gana tendrá un final feliz</p>
 
+<h2>Section 4 – Game Elements</h2>
+<h2>1. Environment:</h2>
+<h2>ESCENARIO 1: contiene</h2> 
+<P>-precipicios</p>
+<P>-plataformas elevadas</p> 
+<P>-obstáculos en formas de rama</p>
+<P>-enemigo principal es el gato SPOCK</p>
+<P>-contiene mazorcas para aumentar el puntaje</p>
+<P>-el escenario se caracteriza por tener un clima cálido con un cielo azul y bastantes nubes</p>
+
+<h2>ESCENARIO 2: contiene</h2>
+<P>-se caracteriza por tener un clima opaco de noche</p>
+<P>- el villano principal es el gato y en este ya se puede observar que el gato lo esta persiguiendo a nuestro personaje</p> 
+<P>- contiene bastantes precipicios</p>
+<P>- los obstáculos son piedras que caen del cielo</p>
+<P>- plataformas elevadas</p>
+<P>- contiene mazorcas que le aumentan el puntaje</p>
+<P>- se encuentran gusanos los cuales restan puntaje</p>
+
+<h2>ESCENARIO 3: contiene</h2>
+<P>- el escenario se caracteriza por tener un clima cálido con un cielo azul y bastantes nubes</p>
+<P>- tiene plataformas inclinadas</p>
+<P>- contiene obstáculos que son piedras </p>
+<P>- Los enemigos de este escenario son el gato SPOCK y la aguila EAGLE</p>
+<P>-contiene gusanos que restan puntaje </p>
+<P>- contiene mazorcas que le aumentan el puntajev</p>
+
+
+<h2>2. Personajes:</h2>  
+  <h2> 2.1 Personajes Jugadores:
+<P> el personaje principal es el pollito LITLE</p>
+      
+<P>- Enumerar y hacer una breve descripción de los personajes jugadores del juego  
+Es un pollito de 15 cm de color amarillo un poco grueso y muy habil para saltar</p>
+
+   <h2>2.2 Personajes NO Jugadores:</h2>
+<P>el gato SPOCK</p>
+<P>la aguila EAGLE</p>
+<P>el gusano</p>
+  
+<h2> - Enumerar y hacer una breve descripción de los personajes NO jugadores del juego</h2>  
+<P>1 el gato SPOCK: es un gato de color amarillo con blanco tiene un tamaño de 25 cm es muy rapidoy siempre tiene hambre</p>
+
+<P>2 la aguila EAGLE: es un aguila de color cafe es de un tamaño de 40cm  con alas grandes y con unas garras largas y le encantan las presas pequeñas</p>
+
+<P>3 el gusano: en un gusano de color rosa de 10cm que se mueve de izquierda a derecha y le encanta robar los puntos del jugador</p>
+
+<P>3. Armas o elementos colectables:  
+MONEDAS: es de un tamaño 4cm con un color amarillo y cuando se recolectasirve para cambiar de escenario</p>
+
+<P>MAZORCAS: es de un tamaño de 5cm con un color amarillo con verde y se utiliza para obtener puntaje en los escenarios</p>
 
 
 
