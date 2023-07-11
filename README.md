@@ -38,7 +38,8 @@ spock pudo observar a la familia de little en la ventana y fue tras ellos la mam
 la misión de little es volver al granero con su familia pero spock no se lo pondrá fácil ni nadie que se encuentre en su camino</p> 
 <h2>2. Historia del personaje:</h2> 
 <P>LITLE:</p> 
-<img src="./personaje/Pollito_60x60.gif" alt="Pollito_60x60">
+
+<img src="./personaje/1.3Pollito_60x60.gif" alt="Pollito_60x60">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/Pollito_60x60.gif "Imagen del pollito"
 <P>Este es nuestro personaje principal
@@ -47,7 +48,7 @@ Su misión es volver al granero con su familia
 Y evitar a sus enemigos en el camino</p> 
 <h2>3. Historia de los enemigos:</h2>  
 <P>SPOCK</p>
-<img src="./personaje/Gato.gif" alt="Gato">
+<img src="./personaje/1.1Gato.gif" alt="Gato">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/Gato.gif "Imagen del gato"
 <P>Es el enemigo principal en la dificultad normal
@@ -58,6 +59,50 @@ Su objetivo es perseguir a little hasta conseguir que sea su cena</p>
 [Level1]: /public/images/agila.png "Imagen del agila"
 <P>Es el enemigo principal de la dificultad profesional
 Su objetivo es devorar a little y destruir sus plataformas</p>
+<h2>4. Desarrollo de la historia:</h2>   
+<P>Cada ves que litle  avanza un nivel más
+Se va acercando al camino de regreso a la granja para encontrarse con su familia</p>
+<h2>Sección 3 - Juego</h2>
+<h2>1. Objectivo(s):</h2>
+<P>- objetivo 1</p>
+<P>- objetivo 2</p>
+<P>- etc</p>
+<h2>2. Reglas del juego:</h2>
+<P>- Regla 1 del juego</p>
+<P>- Regla 2 del juego</p>
+<P>- etc</p>
+<h2>3. Mecánica del juego:</h2>
+  <P>- Movimientos del personaje
+izquierda, derecha , arriba y caída</p>
+ <P>- Movimientos de los enemigos
+perseguir al personaje principal</p>
+  <P>- Obstáculos y trampas
+los obstáculos caen del cielo</p>
+<h2>4. Completar con varios o todos de los siguientes (a necesidad)</h2>
+<h2>• Game options</h2>
+<P>pausa</p>
+<P>nuevo juego</p>
+<P>opciones</p>
+<P>creditos</p>
+<h2>• Modes</h2>
+<P>dificultad normal</p>
+<P>dificultad profesional</p>
+<h2>• Game levels</h2>
+<P>3 escenarios</p>
+<h2>• Player’s controls</h2>
+<P>flecha izquierda: movimiento hacia la izquierda</p>
+<P>flecha a la derecha: movimiento a la derecha</p>
+<P>barra espaciadora: saltar</p>
+<P>mousa: seleccionar opciones del menu</p>
+<h2>• Winning</h2>
+<P>obtiene puntaje por cada mazorca obtenida</p>
+<h2>• Losing</h2>
+<P>por caer al precipicio pierde 1 vida y los puntos</p>
+<h2>• End</h2>
+<P>si el personaje pierde las 3 vidas tendrá un final triste
+si el personaje gana tendrá un final feliz</p>
+
+
 
 
 
