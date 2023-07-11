@@ -5,7 +5,7 @@
 <h2>PROYECTO:</h2>
 <P>Desarrollo de un video juego basico</p>
 <h2>TITULO: POLLITOS EN FUGA</h2>
-
+<img src="./public/images/splash.PNG" alt="splash">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/splash.png "Imagen del splash"
 <h2>GENERO DEL JUEVO:</h2>
@@ -38,6 +38,7 @@ spock pudo observar a la familia de little en la ventana y fue tras ellos la mam
 la misión de little es volver al granero con su familia pero spock no se lo pondrá fácil ni nadie que se encuentre en su camino</p> 
 <h2>2. Historia del personaje:</h2> 
 <P>LITLE:</p> 
+<img src="./public/images/Pollito_60x60.gif" alt="Pollit">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/Pollito_60x60.gif "Imagen del pollito"
 <P>Este es nuestro personaje principal
@@ -46,11 +47,13 @@ Su misión es volver al granero con su familia
 Y evitar a sus enemigos en el camino</p> 
 <h2>3. Historia de los enemigos:</h2>  
 <P>SPOCK</p>
+<img src="./public/images/Gato.gif" alt="Gato">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/Gato.gif "Imagen del gato"
 <P>Es el enemigo principal en la dificultad normal
 Su objetivo es perseguir a little hasta conseguir que sea su cena</p>
 <P>EAGLE</p>
+<img src="./public/images/agila.png" alt="agila">
 <!-- Referencias para las imagenes -->
 [Level1]: /public/images/agila.png "Imagen del agila"
 <P>Es el enemigo principal de la dificultad profesional
